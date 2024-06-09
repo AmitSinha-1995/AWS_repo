@@ -1,2 +1,2 @@
 # AWS_repo
-This repo is all about to have information and project that I did in AWS
+In this repository I'm going to showcases all of the important task that I have done in my training session in AWS, where I experienced multiple services provided by AWS to create foundation of infrastructure for application and I also make sure high availability and efficiency of created infrastructure.
